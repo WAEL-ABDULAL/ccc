@@ -1,5 +1,6 @@
-function minmin() 
-    	Ino=4;Gno=20;
+function min_min()
+ 
+Ino=4;Gno=20;//4 cpu, 20 tasks 
 W= [106, 123,110,123,130 ,116, 110,130,117,147,132 ,129, 100, 139,117,101,136,105,138, 135];
   cp=[5, 2,7, 7];
   % public static double [] min1(double ET[][],int Gno,int Ino){
